@@ -6,9 +6,6 @@ Information we collect
 We made "Ludo & Snakes and Ladders" game with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.
 
 We may collect non-personal identification, such as device-specific information, including your operating system version, system language. All of these are for serving you better.
-
-Android users with devices running 6.0 ("Marshmallow") or later may be prompted to enable the WRITE_SETTINGS permission. This permission is required to set song to default ringtone in your phone settings.
-
  
 How we use information we collect 
 
@@ -16,6 +13,18 @@ Personal information - Since we do not collect Personal Information, we may not 
 
 Non-Personal Information - We may use your Non-Personal Information to personalize user experience, or to help improve our products. 
 
+Advertising Networks:
+We are usning Unity ads a=as advertising network to provide you with personalized advertisement experience without our app.
+Make sure game does not collect any personal information.
+Link to privacy policy of Unity ads:
+Unity ads:
+Unity ads is an advertising service provided by Unity ads Inc.(US)
+privacy policy: https://unity3d.com/legal/privacy-policy
+
+Analatic Service:
+We are using Fabric as analatic service to improve app performance.
+Fabric:
+Privacy Policy:https://docs.fabric.io/android/fabric/data-privacy.html
 
 Information security
 
